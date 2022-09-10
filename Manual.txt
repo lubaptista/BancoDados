@@ -14,6 +14,8 @@ docker ps                                                           \\ Utilizado
 
 docker exec -it <mysql-container-id> mysql -p Trabalho_X            \\ Execução do container com a database Trabalho_X
 
+docker inspect trabalho
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 TERMINAL MYSQL:
@@ -25,5 +27,7 @@ SHOW TABLES;                                                        \\ Ira mostr
 select * from <table_name>;                                         \\ Ira mostrar as informações existentes na tabela selecionada (Exemplo: select * from alunos;)
 
 describe <table_name>;                                              \\ Ira mostrar as variaveis da tabela selecionada (Exemplo: describe alunos;)
+
+exit
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
