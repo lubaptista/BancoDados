@@ -3,7 +3,7 @@
   ![image](https://user-images.githubusercontent.com/111883180/189505434-61ead341-b8be-4290-8469-a8fd4d6e2e4f.png)
 
 ## Projeto
-### Descrição
+### Descrição:
 - O projeto do Banco de Dados, tem como objetivo a vizualização de informações sobre os alunos, professores e materias disponibilizadas, por meio de uma imagem mysql criada justamente para esses dados.
 - "Alunos" é possivel encontrar dados como nome completo, RA e e-mail de forma organizada. 
 - "Professor", são oferecidos os nomes, os e-mails e o código referente a matéria dada pelo mesmo.
