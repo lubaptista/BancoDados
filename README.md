@@ -26,10 +26,6 @@
 
 ![image](https://user-images.githubusercontent.com/111883180/189505542-72ecdc58-57d7-45f2-95e4-d9acbdd95147.png)
 
-### Acesso ao Docker Hub:
-
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/danchih/dockermysql/tags)
-
 ### Acesso ao Projeto:
 - Para acessar o projeto, você pode realizar os processos descritos no "Manual.txt"
 
