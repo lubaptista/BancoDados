@@ -4,13 +4,13 @@
 
 ## Projeto
 ### Descrição
-- O projeto do Banco de Dados, tem como objetivo a vizualização de informações sobre os alunos, professores e materias disponibilizadas, por meio de uma imagem mysql criada justamente para esses dados.
+- O projeto do Banco de Dados, tem como objetivo a vizualização de informações sobre os alunos, professores e materias disponibilizadas, por meio de uma imagem MySQL criada justamente para esses dados.
 - "Alunos" é possivel encontrar dados como nome completo, RA e e-mail de forma organizada. 
 - "Professor", são oferecidos os nomes, os e-mails e o código referente a matéria dada pelo mesmo.
 - "Matérias" há os nomes das matérias, o código delas e o prédio/sala onde acontece as aulas.
 
 ### Status do projeto: 
-Concluído.
+- Concluído.
 
 ### Funcionalidades:
 - Obter de forma facilitada dados sobre as aulas, os alunos que frequentam e os professor que lecionam.
@@ -31,7 +31,7 @@ Concluído.
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/danchih/dockermysql/tags)
 
 ### Acesso ao Projeto:
-Para acessar o projeto, você pode realizar os processos descritos no "Manual.txt"
+- Para acessar o projeto, você pode realizar os processos descritos no "Manual.txt"
 
 [![GitHub Manual](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lubaptista/BancoDados/blob/arquivo_docker/Manual.txt)
 
